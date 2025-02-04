@@ -25,13 +25,14 @@ Code & physics:
 - Elements beyond CNO:
 	- neutron/proton capture
 	- alpha capture
-	- Can they happen in a main sequence start?
+	- Can they happen in a main sequence star?
 - When are particles unable to break the Coulomb barrier?
+
 
 General work:
 - Consider a group book for everyone to share and look at
 - Create a logbook of code of work
-- Make a gnatt chart
+- Make a Gantt chart
 	- Midterm review
 	- Heavy element formation
 	- Poster
