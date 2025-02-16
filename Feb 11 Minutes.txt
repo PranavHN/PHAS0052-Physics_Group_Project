@@ -2,7 +2,7 @@ Minutes: 11/02
 
 Spectroscopic factor
 
-Gamow window (MB Dist \* CB Break prob)
+Gamow window (MB Distribution & Coulomb barrier Break prob)
 
 - Higher temp means more energy
 - Likely hood of particle interaction
