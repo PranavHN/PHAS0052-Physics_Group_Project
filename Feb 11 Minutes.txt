@@ -1,0 +1,23 @@
+Minutes: 11/02
+
+Spectroscopic factor
+
+Gamow window (MB Distribution & Coulomb barrier Break prob)
+
+- Higher temp means more energy
+- Likely hood of particle interaction
+- Consider the probability of this in code
+- Consider the relevance of spin parity of N15 & O16 and if/how it affects decay
+
+Look at literature for the sun to look at abundances to see where to stop
+
+Consider the different layers of the Sun & the temperatures
+
+- Interactions between layers
+- Shell mixing
+
+How does positron amount affect reaction rates/probability?
+
+Read through literature on experimental methods.
+
+- Eg pathways of O16
