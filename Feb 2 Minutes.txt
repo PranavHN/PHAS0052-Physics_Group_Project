@@ -1,0 +1,40 @@
+Minutes: 04/02
+
+Risk Assessment:
+- Consider hat are the implications of them happening?
+- Who is at risk? Everyone...
+- Electrocution is VERY SEVERE XD
+- Read through the comments
+
+pp chains:
+- Consider the weighting of the different pp chains
+
+CNO:
+- Cross section if a function of energy and other variables and not just a constant
+	- Competing reactions can affect the probability of reaction we want
+- Look at CNO2
+
+
+Code & physics:
+- Consider merging our code bases together and get them working together
+- Look into starting to see reactions in different sections: temperature as a function parameter
+- How fast is CNO compared to pp?
+- Start work on x3 alpha
+- Start research on the Hoyle state
+	- The problem of Be8 being too unstable
+- Elements beyond CNO:
+	- neutron/proton capture
+	- alpha capture
+	- Can they happen in a main sequence star?
+- When are particles unable to break the Coulomb barrier?
+
+
+General work:
+- Consider a group book for everyone to share and look at
+- Create a logbook of code of work
+- Make a Gantt chart
+	- Midterm review
+	- Heavy element formation
+	- Poster
+	- Report
+	- Lit/model comparison
