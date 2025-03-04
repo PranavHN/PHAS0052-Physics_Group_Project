@@ -1,0 +1,13 @@
+- Correction factor is useful but too early to consider at this point rn
+- Temperature and density should not be constant:
+	- Consider temperature as a function of the rates taking place?
+	- E = kT, E = mass difference
+- Consider plots of reaction rates over time
+	- Average rate of each cycle (e.g. average CNO reaction, etc)
+	- Gamow window?
+- Energy contributions from each reaction over time/temperature
+- Finalise the plots for the poster
+- Start considering the poster session
+	- Interactive aspect to the display
+- Look at the coulomb barrier at O16+(p/alpha)
+	- Limits of heavy element formation
