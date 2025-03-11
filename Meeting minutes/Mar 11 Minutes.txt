@@ -1,0 +1,26 @@
+Consider and talk about issues and discrepancies in the report. DON'T HIDE IT
+
+Group report (3000 words)
+	- Overall research report, like previous lab reports
+	- Don't talk too much of the general background and yap
+	- Talk about it as though you are talking to another 3rd year
+		- Similar knowledge but not quite (machine learning, numerical computation equations, etc)
+	- Nothing new to be mentioned in the conclusion
+		- Summarise the project
+		- Talk about issues with the model and what we ignore (backwards reactions, entanglement in the surface of stars [sunspots], etc)
+
+Individual report (1500 words)
+	- Your individual contributions, here's my contribution, what the model does etc. Targeted (but contextualised) to what you've done.
+	- Content can overlap slightly based on what the contributions are
+
+Poster
+	- Introductory, theory, etc, density, etc
+	- What the code does do/doesn't do/assume
+	- Key results/plots
+	- [Very] Short conclusions
+	- Acknowledgements
+	- Aim to do it ASAP
+	- Interactive elements
+		- Demo (particles smashing)
+		- Small video
+		- Little model
